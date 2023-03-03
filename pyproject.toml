@@ -33,7 +33,7 @@ playwright = "^1.13.0"
 appdirs = "^1.4.4"
 
 [tool.poetry.dev-dependencies]
-autopep8 = "^1.5.4"
+autopep8 = "^2.0.2"
 nb-cli = {extras = ["deploy"], version = "^0.4.2"}
 
 [[tool.poetry.source]]
